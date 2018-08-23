@@ -1,1 +1,1 @@
-# Capacitive_Touch_Dance_Floor_with_Teensy
+# Capacitive Touch Dance Floor with Teensy
