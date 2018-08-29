@@ -16,6 +16,8 @@ Documentation
 [Enginursday: Prototype Capacitive Touch Dance Floor with a Teensy and XBees
 ](https://www.sparkfun.com/news/2761)
 
+If you aren’t familiar with the following concepts, it is recommended to check out these tutorials.
+
 * [Teensy 3.2: Pinouts](https://www.pjrc.com/teensy/teensy31.html) 
 * [Getting Started with the Teensy](https://learn.sparkfun.com/tutorials/getting-started-with-the-teensy)
 * [Teensy XBee Adapter Hookup Guide](https://learn.sparkfun.com/tutorials/teensy-xbee-adapter-hookup-guide)
