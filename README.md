@@ -13,7 +13,7 @@ Prototype Capacitive Touch Dance Floor with Teensy with a pair of XBee Series 1s
 Repository Contents
 -------------------
 
-* **/Documentation** - Fritzing Circuit
+* **/Documentation** - Fritzing circuit
 * **/Firmware** - Example code 
 
 Documentation
