@@ -22,6 +22,7 @@ If you aren’t familiar with the following concepts, it is recommended to check
 * [Getting Started with the Teensy](https://learn.sparkfun.com/tutorials/getting-started-with-the-teensy)
 * [Teensy XBee Adapter Hookup Guide](https://learn.sparkfun.com/tutorials/teensy-xbee-adapter-hookup-guide)
 * [Using OpenSegment: Counter/Analog Modes](https://learn.sparkfun.com/tutorials/using-opensegment#counteranalog-modes)
+* [Transistors - Applications I: Switches](https://learn.sparkfun.com/tutorials/transistors#applications-i-switches)
 
 To add wireless I/O line passing, simply use a pair of XBee Series 1 radio each configured as a button and LED. 
 
