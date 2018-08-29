@@ -9,6 +9,7 @@
 const int ledPin = 13;
 
 //an array to define each of the eight touch sense pins
+//for more Touch sense pins, check out the Teensy pinouts => https://www.pjrc.com/teensy/teensy31.html
 int pinTouch[] = {0, 1, 15, 16, 17, 25, 32, 33};
 int button1State;
 /*buttonXstate
