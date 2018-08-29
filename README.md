@@ -27,7 +27,7 @@ If you aren’t familiar with the following concepts, it is recommended to check
 * [Teensy 3.2: Pinouts](https://www.pjrc.com/teensy/teensy31.html) 
 * [Getting Started with the Teensy](https://learn.sparkfun.com/tutorials/getting-started-with-the-teensy)
 * [Teensy XBee Adapter Hookup Guide](https://learn.sparkfun.com/tutorials/teensy-xbee-adapter-hookup-guide)
-* [Exploring Xbees and XCTU](https://learn.sparkfun.com/tutorials/exploring-xbees-and-xctu)
+* [Exploring XBees and XCTU](https://learn.sparkfun.com/tutorials/exploring-xbees-and-xctu)
 * [Using OpenSegment: Counter/Analog Modes](https://learn.sparkfun.com/tutorials/using-opensegment#counteranalog-modes)
 * [Transistors - Applications I: Switches](https://learn.sparkfun.com/tutorials/transistors#applications-i-switches)
 * [How to Solder: Through-Hole Soldering](https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering)
