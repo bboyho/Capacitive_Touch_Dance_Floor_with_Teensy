@@ -8,7 +8,7 @@ Capacitive Touch Dance Floor with Teensy
   </tr>
 </table>
 
-Prototype Capacitive Touch Dance Floor with Teensy with a pair of XBee Series 1s configured for I/O line passing.
+Prototype Capacitive Touch Dance Floor with Teensy and a pair of XBee Series 1s configured for I/O line passing.
 
 Repository Contents
 -------------------
