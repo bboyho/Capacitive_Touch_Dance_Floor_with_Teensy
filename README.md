@@ -1,11 +1,25 @@
 Capacitive Touch Dance Floor with Teensy
 -------------------
 
+<table class="table table-hover table-striped table-bordered">
+  <tr align="center">
+   <td><a href="https://cdn.sparkfun.com/assets/home_page_posts/2/7/6/1/Prototype_Capacitive_Touch_Dance_Floor-01.jpg"><img src="https://cdn.sparkfun.com/r/500-500/assets/home_page_posts/2/7/6/1/Prototype_Capacitive_Touch_Dance_Floor-01.jpg" alt=""></a></td>
+  <td><a href="https://cdn.sparkfun.com/assets/home_page_posts/2/7/6/1/BBoy_Bobby_Hand_Plant_Testing_Capacitive_Touch_Dance_Floor.JPG"><img src="https://cdn.sparkfun.com/r/500-500/assets/home_page_posts/2/7/6/1/BBoy_Bobby_Hand_Plant_Testing_Capacitive_Touch_Dance_Floor.JPG" alt=""></a></td>
+  </tr>
+</table>
+
+Prototype Capacitive Touch Dance Floor with Teensy with a pair of XBee Series 1s configured for I/O line passing.
+
 Documentation
 -------------------
 
+[Enginursday: Prototype Capacitive Touch Dance Floor with a Teensy and XBees
+](https://www.sparkfun.com/news/2761)
+
+* [Teensy 3.2: Pinouts](https://www.pjrc.com/teensy/teensy31.html) 
 * [Getting Started with the Teensy](https://learn.sparkfun.com/tutorials/getting-started-with-the-teensy)
-* [Teensy XBee Adapter Hookup Guide](https://learn.sparkfun.com/tutorials/teensy-xbee-adapter-hookup-guide) 
+* [Teensy XBee Adapter Hookup Guide](https://learn.sparkfun.com/tutorials/teensy-xbee-adapter-hookup-guide)
+* [Using OpenSegment: Counter/Analog Modes](https://learn.sparkfun.com/tutorials/using-opensegment#counteranalog-modes)
 
 To add wireless I/O line passing, simply use a pair of XBee Series 1 radio each configured as a button and LED. 
 
