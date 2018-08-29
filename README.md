@@ -13,7 +13,7 @@ Prototype Capacitive Touch Dance Floor with Teensy with a pair of XBee Series 1s
 Documentation
 -------------------
 
-[Enginursday: Prototype Capacitive Touch Dance Floor with a Teensy and XBees
+* [Enginursday: Prototype Capacitive Touch Dance Floor with a Teensy and XBees
 ](https://www.sparkfun.com/news/2761)
 
 If you aren’t familiar with the following concepts, it is recommended to check out these tutorials.
